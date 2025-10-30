@@ -164,6 +164,7 @@
     - [filiptronicek](/templates/filiptronicek.md)
     - [francojimenezcopati](/templates/francojimenezcopati.md)
     - [furkandeveloper](/templates/furkandeveloper.md)
+    - [funatsuya](/templates/funatsuya.md)
   - G
     - [gabrlcj](/templates/gabrlcj.md)
     - [garbinmarcelo](/templates/garbinmarcelo.md)
