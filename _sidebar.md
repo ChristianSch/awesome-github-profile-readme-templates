@@ -83,6 +83,7 @@
     - [ashu-guo](/templates/ashu-guo.md)
 
   - B
+    - [boriscr](/templates/boriscr.md)
     - [bindian0509](/templates/bindian0509)
     - [b4dcat404](/templates/b4dcat404.md)
     - [BaseMax](/templates/BaseMax.md)
